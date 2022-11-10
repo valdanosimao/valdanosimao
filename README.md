@@ -13,7 +13,7 @@
 
 - 📫 Meu Email **valdanosimao@gmail.com**
 
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="left">Minhas redes:</h3>
 <p align="left">
 <a href="https://twitter.com/valdanosimao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valdanosimao" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/valdanosimao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/valdanosimao" height="30" width="40" /></a>
