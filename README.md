@@ -29,13 +29,13 @@ Na **ADAGRO** (Agência de Defesa e Fiscalização Agropecuária de Pernambuco),
 ## 🛠️ Tecnologias
 
 **Front-end:** HTML5 · CSS3 · JavaScript · Layout responsivo · Acessibilidade web
-**Back-end e integrações:** Python · PHP · APIs REST · MySQL
+**Back-end e integrações:** Node.js · Express · Python · PHP · APIs REST · MySQL
 **Inteligência Artificial:** Agentes de IA · Claude API · LLMs · Engenharia de prompt · PLN · Claude Code
 **Dados:** SQL · ETL/ELT · BigQuery · Power BI · DAX · Looker Studio
 **Ferramentas:** Git · GitHub · VS Code · Linux
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,vscode,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,php,mysql,git,github,vscode,linux&theme=light" />
 </p>
 
 ## 🌱 Agora estou estudando
