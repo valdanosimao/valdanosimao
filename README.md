@@ -21,6 +21,7 @@ Na **ADAGRO** (Agência de Defesa e Fiscalização Agropecuária de Pernambuco),
 |---|---|---|
 | 🌐 **[Site Institucional da ADAGRO-PE](https://github.com/valdanosimao/site-adagro)** | Site de órgão público feito do zero e em produção: mega-menu de 11 áreas, serviços por perfil de usuário e acessibilidade | HTML · CSS · JavaScript |
 | 🤖 **[Ada – Assistente Virtual](https://github.com/valdanosimao/ada-assistente-virtual)** | Assistente com busca BM25 em 2.217 trechos do site, PLN em português, contexto de conversa e voz, 100% no navegador | JavaScript · PLN · BM25 |
+| 🧠 **[Ada RAG + Claude API](https://github.com/valdanosimao/ada-rag-claude)** · código aberto | RAG completo: busca BM25 em português + respostas geradas pelo Claude com citação de fonte, API REST e testes automatizados | Node.js · Express · Claude API |
 | 📊 **[Análise de Arrecadação](https://github.com/valdanosimao/analise-arrecadacao-bi)** | Painel de arrecadação pública: R$ 30,7 mi, crescimento YoY e ranking por regional | Power BI · DAX · Power Query |
 | 🗺️ **[Mapa de Escritórios](https://github.com/valdanosimao/monitoramento-escritorios-bi)** | Mapa das 119 unidades em 185 municípios de PE, com filtros por regional | Power BI · ArcGIS · DAX |
 | 📈 **[Planejamento Estratégico](https://github.com/valdanosimao/monitoramento-estrategico-bi)** | Indicadores, iniciativas e projetos em modelo estrela, com ficha financeira | Power BI · DAX · Star Schema |
@@ -39,7 +40,7 @@ Na **ADAGRO** (Agência de Defesa e Fiscalização Agropecuária de Pernambuco),
 
 ## 🌱 Agora estou estudando
 
-- **RAG com a API do Claude**: levar a Ada de busca por trechos para respostas geradas por IA, com citação de fonte
+- **Busca híbrida (BM25 + embeddings)** e respostas em streaming para a [Ada RAG](https://github.com/valdanosimao/ada-rag-claude)
 - **n8n** e automação de fluxos com agentes de IA
 - **React**
 
